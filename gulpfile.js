@@ -1,5 +1,6 @@
 var gulp = require('gulp');
 var browserSync = require('browser-sync');
+var sass = require('gulp-sass');
 var reload = browserSync.reload;
 
 // watch files for changes and reload
