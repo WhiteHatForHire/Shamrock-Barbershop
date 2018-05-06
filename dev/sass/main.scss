@@ -1,9 +1,10 @@
 // Abstracts
-@import 'colors';
+@import "abstracts/colors";
 
 // Modules
-@import 'navbar';
+@import "modules/grid";
 
 // Partials
+@import "partials/navbar";
 
 // Vendor
